@@ -32,4 +32,13 @@ SuperLife currently offers two long-term insurance products, a single-premium wh
 7. 
 ### Mortality Analysis
 Our first concern when utilising the provided data is whether the provided mortality data (MORTDATA) is a suitable fit for the provided inforce data (INFORCE). We analysed the empirical death probabilities from INFORCE across the provided age range and found that for ages less than 58, the experienced mortality (INFORCE) is higher than predicted and vice versa for ages greater than 58 (Figure 2). To account for this, we needed to stratify the MORTDATA according to the Underwriting Class by calculating an average loading factor of the INFORCE mortality compared to the MORTDATA mortality.
+
 <img width="250" alt="image" src="[]">
+
+Next, we further stratified the mortality tables according to the projected mortality reductions due to the interventions. There are 4 base interventions and hence 15 combinations of the interventions, for which mortality tables were calculated. With a high degree of certainty, an average reduction of 22.23% is expected after implementing interventions.
+The results of this analysis show clear mortality improvements, which can be seen by the life expectancy at birth, using the Low-Risk Underwriting Class, with and without interventions. Similar patterns hold for the other underwriting classes.
+
+| Base    | Smoking Cessation | Wellness Programs  | Chronic Disease Management | Cancer Prevention Initiatives  | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| 78.7753 | 81.2288  | 79.8376   | 80.0209   | 80.2480   |
+
