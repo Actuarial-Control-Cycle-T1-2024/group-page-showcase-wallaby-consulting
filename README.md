@@ -38,7 +38,7 @@ Our first concern when utilising the provided data is whether the provided morta
 Next, we further stratified the mortality tables according to the projected mortality reductions due to the interventions. There are 4 base interventions and hence 15 combinations of the interventions, for which mortality tables were calculated. With a high degree of certainty, an average reduction of 22.23% is expected after implementing interventions.
 The results of this analysis show clear mortality improvements, which can be seen by the life expectancy at birth, using the Low-Risk Underwriting Class, with and without interventions. Similar patterns hold for the other underwriting classes.
 
-| Base    | Smoking Cessation | Wellness Programs  | Chronic Disease Management | Cancer Prevention Initiatives  | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 78.7753 | 81.2288  | 79.8376   | 80.0209   | 80.2480   |
+| Base    | Smoking Cessation | Wellness Programs | Chronic Disease Management | Cancer Prevention Initiatives | 
+| ------- | ----------------- | ----------------- | -------------------------- | ----------------------------- | 
+| 78.7753 |      81.2288      |      79.8376      |          80.0209           |             80.2480           |
 
