@@ -1,6 +1,6 @@
 # Wallaby Consulting: 2024 Student Research Case Study Challenge
 
-![bg image](https://raw.githubusercontent.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Cover%20Page%20Image.jpg)
+![bg image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Cover%20Page%20Image.jpg)
 
 ## SuperLife Saving Lives
 
