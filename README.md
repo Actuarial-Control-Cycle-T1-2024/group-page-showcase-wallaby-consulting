@@ -22,3 +22,14 @@ This program is designed to be implemented in January 2025 with a duration of 20
 
 
 ## 4. Pricing and Costs
+SuperLife currently offers two long-term insurance products, a single-premium whole life insurance, and a level-premium 20-year term insurance. Our objectives were to price the premiums according to sound actuarial principles, balancing the economic value offered to SuperLife, and the competitiveness to the market. In general, our pricing process involved:
+1. Analysis of the provided Inforce Data, and provided mortality tables,
+2.  Creation of new mortality tables,
+3. Base premium pricing,
+4. Expense loading,
+5. Cash back margins, and
+6. Profitability projections.
+7. 
+### Mortality Analysis
+Our first concern when utilising the provided data is whether the provided mortality data (MORTDATA) is a suitable fit for the provided inforce data (INFORCE). We analysed the empirical death probabilities from INFORCE across the provided age range and found that for ages less than 58, the experienced mortality (INFORCE) is higher than predicted and vice versa for ages greater than 58 (Figure 2). To account for this, we needed to stratify the MORTDATA according to the Underwriting Class by calculating an average loading factor of the INFORCE mortality compared to the MORTDATA mortality.
+<img width="250" alt="image" src="[]">
