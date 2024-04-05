@@ -1,4 +1,13 @@
-# Wallaby Consulting Report
+# Wallaby Consulting: 2024 Student Research Case Study Challenge
+
+![bg image](https://raw.githubusercontent.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Cover%20Page%20Image.jpg)
+
+## SuperLife Saving Lives
+
+Authors: Amelia Quinlan, Catherine Xie, Nicholas Wong, Nala Hong & Vivian Chan
+
+### Table of Contents
+
 
 ## 1. Executive Summary
 
