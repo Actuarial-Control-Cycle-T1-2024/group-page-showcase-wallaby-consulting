@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice A @ UNSW
+# ACTL4001 Report
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
