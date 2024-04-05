@@ -1,6 +1,6 @@
 # Wallaby Consulting Report
 
-### Executive Summary
+#### 1. Executive Summary
 
 This report is presented by Wallaby Consulting for SuperLife’s chief actuary, Jes B. Zane, on suitable health incentive programs to be paired with SuperLife’s existing whole-life and 20-year term policies. The designed program is called EverCare and prioritises key incentive programs, which were selected based on their effectiveness in reducing mortality, as well as the net present value (NPV) of the estimated costs taken to implement each. To provide maximum value to as many policyholders as possible, EverCare encompasses four health intervention programs, as discussed more in Section 3. 
 
