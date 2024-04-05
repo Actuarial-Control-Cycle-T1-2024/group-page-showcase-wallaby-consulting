@@ -6,8 +6,13 @@
 
 Authors: Amelia Quinlan, Catherine Xie, Nicholas Wong, Nala Hong & Vivian Chan
 
+<img width="250" alt="image" src="[https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/.github/Logos.png]">
+
+---
+
 ### Table of Contents
 
+---
 
 ## 1. Executive Summary
 
