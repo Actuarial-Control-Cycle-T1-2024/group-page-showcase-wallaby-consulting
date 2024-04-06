@@ -185,18 +185,33 @@ Hence, Wallaby Consulting’s EverCare program effectively achieves the primary 
 
 ### 6 References
 Bobitt, J, Aguayo, L, Payne, L, Jansen, T & Schwingel, A 2019, ‘Geographic and Social Factors Associated With Chronic Disease Self-Management Program Participation: Going   the “Extra-Mile” for Disease Prevention’, Preventing Chronic Disease, vol. 16.
+
 Brennan, R 2023, How do life insurance companies make money? | QuickQuote.com, www.quickquote.com, viewed 22 March 2024, <https://www.quickquote.com/how-do-life-insurance-  companies-make-money/>.
+
 Bryant, J, Bonevski, B & Paul, C 2011, ‘A survey of smoking prevalence and interest in quitting among social and community service organisation clients in Australia: a      unique opportunity for reaching the disadvantaged’, BMC Public Health, vol. 11, no. 1.
+
 Centers for Disease Control and Prevention 2022, Smoking Cessation: Fast Facts, viewed 15 March 2024,             <https://www.cdc.gov/tobacco/data_statistics/fact_sheets/cessation/smoking-cessation-fast-facts/index.html?fbclid=IwAR0zKJvuHWtHDUajudpVZiMrB9HmbwQM6Kvl0vP275rsHK-eXYSVzuWVgpY>.
+
 Harris, Z 2010, Private Health Insurance Sponsored Wellness Programs: Examining Participation in the Healthy Lifestyle Rewards Financial Incentives Program on Health Care   Costs, Utilization, and Risk Behaviors, viewed 20 March 2024, <https://escholarship.org/content/qt3h35x5pq/qt3h35x5pq_noSplash_728ed87c6481ff785d0528bf0671b217.pdf?         t=mtfcpf>.
+
 Hennington, J 2020, Standard deviation around life expectancy is eight years – What this means for retirees, Actuaries Digital, viewed 17 March 2024,       <https://www.actuaries.digital/2020/08/12/standard-deviation-around-life-expectancy-is-eight-years-what-this-means-for-retirees/?      fbclid=IwAR189gBM_3ycahQ7rhWZRZrTALhMTl3z6A7UXhFJ199ugqk6d_P430HrOjA>.
+
 Iervasi, K 2023, Life Insurance Agents and Commissions: What to Know, NerdWallet, viewed 17 March 2024, <https://www.nerdwallet.com/article/insurance/life-insurance-agent-  commissions>.
+
 Lechner, L & Devries, H 1995, ‘Starting Participation in an Employee Fitness Program: Attitudes, Social Influence, and Self-Efficacy’, Preventive Medicine, vol. 24, no. 6,  pp. 627–633, viewed 17 March 2024, <https://reader.elsevier.com/reader/sd/pii/S0091743585710985?      token=D9A066302E66568C406ECFE8278BDC3C8D6C47FECBA34B9669D7BCB913AC02DC15F073DDD0E7E72F863A76225EED66E1&originRegion=us-east-1&originCreation=20211020044626>.
+
 Owen, A. (2024) 'Week 3 Risk Tutorial Slides' [PDF], ACTL4001: Actuarial Theory and Practice A. University of New South Wales (UNSW). February.  
+
 PennState 2023, What are ethical frameworks?, PennState College of Agricultural Sciences.
+
 Rafique, A & Woleban, J 2022, US P&C insurers’ expense ratio falls to lowest level in 5 years, S&P Global Market Intelligence, viewed 20 March 2024, <https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-p-c-insurers-expense-ratio-falls-to-lowest-level-in-5-years-69621363?fbclid=IwAR0xC3FEtg-wGojGkh4pKzhBrEG3iJPpgmyl_XBRKyKNA1_qO3Wd6KLxU90>.
+
 Robinson, I. (2007) ‘Pricing Strategically’, in Pricing Wealth Products in Competitive Markets. Sydney, NSW: The Institute of Actuaries of Australia, pp. 27–30. 
+
 Rosanes, M 2023, How do insurance agents make money?, www.insurancebusinessmag.com, viewed 17 March 2024, <https://www.insurancebusinessmag.com/us/guides/how-do-insurance-agents-make-money-452548.aspx>.
+
 Segal, S 2015, Front-Page Risks: Risks Commonly Occurring and Reported in the Canadian News, April, Casualty Actuarial Society, Canadian Institute of Actuaries, Society of Actuaries, viewed 16 March 2024, <https://www.casact.org/sites/default/files/2021-02/advancingermincanada-report_1.pdf>.
+
 Tiemann, K 2018, How Much do Insurance Companies Spend on Marketing?, Leadsurance, viewed 21 March 2024, <https://leadsurance.com/how-much-do-insurance-companies-spend-on-marketing/>.
+
 Wanni Arachchige Dona, S, Angeles, MR, Hall, N, Watts, JJ, Peeters, A & Hensher, M 2021, ‘Impacts of chronic disease prevention programs implemented by private health insurers: a systematic review’, BMC Health Services Research, vol. 21, no. 1.
