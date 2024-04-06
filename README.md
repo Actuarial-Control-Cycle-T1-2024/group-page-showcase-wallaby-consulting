@@ -20,6 +20,58 @@ This report is presented by Wallaby Consulting for SuperLife’s chief actuary, 
 
 This program is designed to be implemented in January 2025 with a duration of 20 years (the full duration of a term policy). Wallaby Consulting have tested the economic viability of the EverCare program using given historical data and by conducting thorough sensitivity tests for key risks. EverCare has been designed to deliver maximum value to SuperLife, with a 95% certainty, of Č707 bn Net Profit (Č4,449 bn Premiums, Č3,742 bn Death Benefits) as well as an average mortality reduction of 22.23%.  
 
+## 2. Objectives
+The proposed SuperLife Saving Lives plan has three main objectives: 
+1. To incentivize healthy behaviours amongst policyholders via participation in targeted health incentives to decrease expected mortality,
+2. Increasing life insurance sales by improving product marketability and competitiveness,
+3. Finally, to add economic value to SuperLife.
+
+The success of the targeted health incentives will be continuously monitored against the following four key metrics: 
+1. Number of SuperLife policyholders,
+2. Proportion of smoker to non-smoker policyholders,
+3. Overall mortality of policyholders, 4. Usage of health incentive programs.
+
+The four key metrics will be reviewed once every financial year to ensure the effectiveness and sustainability of the health incentives for the 20-year timeframe of their implementation. During this process, the suitability of the health incentives based on the current market environment will also be considered to ensure the relevancy of the programs.  
+
+## 3. Program Design
+
+Wallaby Consulting proposes a free health intervention product package available for SuperLife policyholders called “EverCare: Your Wellness Journey”. This product package consists of four health intervention programs geared to reduce SuperLife’s inforce policyholder’s mortality. The programs included are a Wellness Program, Smoking Cessation Program, Chronic Disease Management Program and Cancer Prevention Initiatives. The Wellness Program improves overall mortality by improving the general physical and mental health of the individual. The other three programs are chosen to directly reduce the expected mortality from the two leading causes of deaths. Historically, 32.7% and 29.4% of SuperLife inforce deaths are attributed to neoplasms and diseases of the circulatory system respectively. Combined, they contribute to more than half of SuperLife’s inforce deaths.  
+
+### 3.1 Evercare: Your Wellness Journey 
+1. Wellness Program - This is available for all policyholders and focuses on physical fitness, nutrition and stress management. The Wellness Program provides policyholders the motivation and professional guidance on how to live healthier lives 
+   in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.
+   Impact: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.
+   Monetary Incentive: Č100 gift voucher will be given to 3 random participants quarterly.
+2. Smoking Cessation Program - This is available to all policyholders who are smoking tobacco products, e-cigarettes and vaping products. This program gives our policyholders access to a community of other smokers who wish to quit and help and   
+   resources from professionals or past smokers who have successfully quit. Furthermore, each program is individually tailored to suit the policyholders need based on how long they have smoked for and level of addiction.
+   Impact: Participants’ mortality reduced up to 35% at the age of 18 with diminishing effects with age. It will cost, on average, Č2177.50 for a first-time participant.
+   Monetary Incentive: Cashback of 0.25% face value to first time participants who stay in the program for a year.
+3. Chronic Disease Management - The Chronic Disease Management Program is available to our policyholders who are managing a chronic disease. This program offers workshops which are available in-person and online and runs quarterly where support 
+   and resources such as diet management help and active health promotion. A grocery voucher prize draw is provided as an incentive to encourage healthier eating.
+   Impact: Participants’ mortality reduces by 5-10% based on age. The cost to run this program will be Č2090.00 yearly.
+   Monetary Incentive: Č100 grocery voucher prize draw at each of the quarterly sessions to one individual. 
+4. Cancer Prevention Initiative - The Cancer Prevention Initiative is a program which runs quarterly and is available for all policyholders to help spread awareness and education around cancer prevention. This involves workshops available online 
+   and in-person quarterly and also learning modules and resources available all-year-round.
+   Impact: Participants’ mortality reduces by 7.5% and it will cost Č210.00 to run yearly.
+   Monetary Incentive: Č100 prize draw quarterly for one policyholder who has taken part in the initiative.
+
+EverCare is designed to be user-friendly and prioritizes convenience and flexibility. All programs are available in-person and online catering to users diverse schedules and preferences. Centralizing all the programs in one package, EverCare simplifies our policyholders’ journeys to a healthier lifestyle. Furthermore, the intervention programs included within the EverCare package will be provided by professionals and experts.  The expected reduction in mortality, with a high degree of certainty, is depicted for policyholders aged 18-65 below. 
+
+## 3.2 Engagement Strategy 
+Wallaby Consulting proposes an engagement strategy which aligns closely with social and psychological models behind the motivation of participating in health and fitness programs to encourage product marketability and competitiveness. These models suggest that attitude, social influences and self-efficacy expectations are key in determining an individual’s motivation in participating in fitness and health programs (Lechner, L. & Devries, H., 1995).  
+
+1. Attitude - This factor is where an individual may question the advantages of the program in the contemplation stage of joining a program. We address this by providing clear marketing correspondence outlining evidenced examples of improvements 
+   to an individual’s health. We also implement a review system so current participants can demonstrate the efficacy of the program. 
+2. Social Influences - Social influences can impact individuals desire to join or remain in a program. This will be addressed by increasing SuperLife’s credibility within the Lumarian community through marketing. SuperLife should time marketing 
+   campaigns of EverCare with the major Lumarian holidays: Lumarian Awakening and Super Luminova, which have a big emphasis on new beginnings and wellbeing respectively. SuperLife could partner with festivals and hold stalls demonstrating a 
+   trial of each program. Furthermore, large events will likely attract large crowds increasing the impact of the marketing campaign that SuperLife could run. To target younger age demographics who may not be insured, SuperLife should also run a 
+   social media campaign and partner with social media influencers. This will increase the exposure of Lumaria’s social community to SuperLife. To continue engagement within individuals actively participating in the program, the four 
+   intervention programs are designed to have a good motivational system with a community-based structure.  
+3. Self-Efficacy - Self-efficacy refers to an individual’s belief about their abilities to participate in a program. This will be especially prevalent within motivation to join the smoking cessation program. To address this, the programs will 
+   have strong social support systems in place while emphasising the flexibility and varying levels of difficulty/commitment on offer.
+
+## 3.3 Timeline of Implementation
+EverCare will be implemented over an initial 20-year horizon with annual monitoring of the program key metrics (mentioned in Section 2). The 20-year timeframe is chosen to match our 20-year term policy so we can monitor the effects of EverCare over the duration of a full life insurance policy. Intervention programs and monetary incentives within the EverCare package should be re-evaluated every 5-years to reflect its relevancy within the current health environment. Intervention programs should also be updated annually where necessary to ensure sufficient resources and support are available. After the initial 20-year period, EverCare will be re-evaluated for renewal based on key metric performance. 
 
 ## 4. Pricing and Costs
 SuperLife currently offers two long-term insurance products, a single-premium whole life insurance, and a level-premium 20-year term insurance. Our objectives were to price the premiums according to sound actuarial principles, balancing the economic value offered to SuperLife, and the competitiveness to the market. In general, our pricing process involved:
