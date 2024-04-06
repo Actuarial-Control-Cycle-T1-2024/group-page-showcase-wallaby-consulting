@@ -12,7 +12,7 @@ library(caret)
 library(pROC)
 
 ################################################## Importing Datasets ################################################## 
-INFORCE = read_csv("SuperLife Inforce Dataset.csv", 
+INFORCE = read_csv("2024-srcsc-superlife-inforce-dataset-part1.csv", 
                    col_names = c("PolicyNumber", "PolicyType", "IssueYear", "IssueAge", "Sex", "FaceAmount", 
                                  "SmokerStatus", "UnderwritingClass", "UrbanVsRural", "Region", "DistributionChannel", 
                                  "DeathIndicator", "YearOfDeath", "LapseIndicator", "YearOfLapse", "CauseOfDeath"), 
@@ -26,7 +26,6 @@ MORTDATA = read_xlsx("Lumaria Mortality Table.xlsx",
                      range = "A15:B134")
 
 #################################################### Data Cleaning #####################################################
-#
 INFORCE$LapseIndicator = as.integer(replace(INFORCE$LapseIndicator, INFORCE$LapseIndicator == "Y", 1))
 INFORCE = replace_na(INFORCE, list(DeathIndicator = 0, LapseIndicator = 0))
 INFORCE$PolicyType = as.factor(INFORCE$PolicyType)
@@ -183,7 +182,7 @@ InforceGrowth = ggplot() +
   theme(plot.title = element_text(hjust = 0.5, size = 14),
         axis.line = element_line(linewidth = 1, colour = "grey80"),
         text = element_text(family = "CMU Serif"))
-ggsave("Inforce Growth.jpg", width = 16, height = 12, units = "cm", InforceGrowth)
+#ggsave("Inforce Growth.jpg", width = 16, height = 12, units = "cm", InforceGrowth)
 
 InforceGrowth
 
@@ -246,20 +245,8 @@ Policy_Proportion = ggplot(prop_long, aes(x = year, y = Proportion, fill = Polic
         axis.line = element_line(linewidth = 1, colour = "grey80"),
         text = element_text(family = "CMU Serif")) +
   scale_fill_manual(values = c("proportion_WL" = "skyblue", "proportion_T" = "coral"), labels = c("Whole Life", "20 Year Term"))
-ggsave("Policy Proportion.jpg", width = 16, height = 12, units = "cm", Policy_Proportion)
+#ggsave("Policy Proportion.jpg", width = 16, height = 12, units = "cm", Policy_Proportion)
 Policy_Proportion
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -421,7 +408,7 @@ MortalityRatesGG = MORTDATA[26:64,] %>%
   theme(plot.title = element_text(hjust = 0.5, size = 14),
         axis.line = element_line(linewidth = 1, colour = "grey80"),
         text = element_text(family = "CMU Serif"))
-ggsave("Mortality Rates Analysis.jpg", width = 16, height = 12, units = "cm", MortalityRatesGG)
+#ggsave("Mortality Rates Analysis.jpg", width = 16, height = 12, units = "cm", MortalityRatesGG)
 
 ################################################# Premium Calculations ################################################# 
 # Basic APV Premium Calculation
@@ -1395,9 +1382,10 @@ t20_l_prem_1234
 t20_l = data_frame(t20_l_prem_1, t20_l_prem_2, t20_l_prem_3, t20_l_prem_4, 
                    t20_l_prem_12, t20_l_prem_13, t20_l_prem_14, t20_l_prem_23, t20_l_prem_24, t20_l_prem_34, 
                    t20_l_prem_123, t20_l_prem_124, t20_l_prem_134, t20_l_prem_234, t20_l_prem_1234 )
-write.csv(as.matrix(t20_l), "t20_low.csv")
+
 colnames(t20_l) = c("one", "two", 'three', 'four', 'onetwo', 'onethree', 'onefour', 'twothree', 'twofour', 'threefour', 
                     'onetwothree', 'onetwofour', 'onethreefour', 'twothreefour', 'onetwothreefour')
+write.csv(as.matrix(t20_l), "t20_low.csv")
 
 ######################################## Intervention Premium Calculations - m ######################################### 
 # By underwriting classes - Whole Life
@@ -4406,11 +4394,6 @@ cashflow_interventions_el_1.6 = cashflow_interventions_el_1.6[, 5:8]
 names(cashflow_interventions_el_1.6) = c("Year", "Revenue", "Cost", "Profit")
 
 cashflow_interventions_el_1.6
-
-
-
-
-
 
 
 
