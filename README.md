@@ -86,7 +86,7 @@ SuperLife currently offers two long-term insurance products, a single-premium wh
 4. Expense loading,
 5. Cash back margins, and
 6. Profitability projections.
-7. 
+   
 ### 4.1 Mortality Analysis
 Our first concern when utilising the provided data is whether the provided mortality data (MORTDATA) is a suitable fit for the provided inforce data (INFORCE). We analysed the empirical death probabilities from INFORCE across the provided age range and found that for ages less than 58, the experienced mortality (INFORCE) is higher than predicted and vice versa for ages greater than 58 (Figure 2). To account for this, we needed to stratify the MORTDATA according to the Underwriting Class by calculating an average loading factor of the INFORCE mortality compared to the MORTDATA mortality.
 
@@ -178,11 +178,14 @@ Whilst the net profits are both in a similar percentage change range for low and
 
 ### 5 Risk & Risk Mitigation Strategies
 Wallaby Consulting has referred to several Risk Categorisation and Definition (RCD) Tools (Owen, 2024; Segal, 2015) in assessing EverCare’s quantifiable and qualitative risks. The key  risks (those with a high priority rating) are summarised and analysed below. See Appendix 9.9 for a comprehensive list of the risks surveyed. Further, the high and medium priority risks are represented in Figure 14, with their relative likelihood of occurrence and severity rankings. The size of the bubbles represents the high vs. medium priority risks. Those quantifiable risks are coloured dark blue and qualitative coloured light blue. 
+
 | Risk Category | Description | Risk Mitigation Techniques | 
 | ------------- | ----------- | -------------------------- |
 | Insurance – Pricing Risk | (Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. |  Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios. SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge. |
 | Insurance – Catastrophe Risk | (Qualitative)	The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur.	|  SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program. SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
 | Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | Create economic incentives for participation in proposed program to mitigate against economic downturns. Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
+
+![risk matrix](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/risk%matrix.JPG)
 
 The following ethical considerations were also taken into account. Whilst the assumption that no community rating laws exist in Lumaria, the ethical implications of each rating factor has been considered for potential discrimination in our pricing, and certain pricing factors which were deemed unnecessary (e.g. gender) were removed. This balances the ethical aim to offer life insurance to everyone (deontology and rights-based ethics) with the need to design a fair and just pricing system, based on real risks that policyholders carry (utilitarianism) (PennState, 2023). To promote social responsibility and equity, the health interventions proposed are designed with the diverse needs and circumstances of policyholders with evidence-based strategies to ensure the well-being of our policyholders. 
 
