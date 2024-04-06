@@ -176,6 +176,20 @@ As seen in our projected sensitivity testing, a real interest rate of 5.64% resu
 The sensitivity analysis on mortality loading suggests that mortality has a much smaller impact than real interest rates. Overall, a lower mortality rate represents an optimistic scenario whilst higher mortality rates negatively impact SuperLife.
 Whilst the net profits are both in a similar percentage change range for low and high loading assumptions, the aggregate premiums and death benefits differ significantly. Although the difference between high and low mortality premiums is within an approximate +5%/-5% range, death benefits see a more significant change. Specifically, the lower mortality rate scenario improves death benefit pay-outs whilst the high mortality rate scenario worsens projected death benefits by 10.41%. In general, a lower death benefit value is more desirable than higher premiums as this translates to less future liabilities to fulfil for SuperLife and thus decreases liability risk.
 
+### 5 Risk & Risk Mitigation Strategies
+Wallaby Consulting has referred to several Risk Categorisation and Definition (RCD) Tools (Owen, 2024; Segal, 2015) in assessing EverCare’s quantifiable and qualitative risks. The key  risks (those with a high priority rating) are summarised and analysed below. See Appendix 9.9 for a comprehensive list of the risks surveyed. Further, the high and medium priority risks are represented in Figure 14, with their relative likelihood of occurrence and severity rankings. The size of the bubbles represents the high vs. medium priority risks. Those quantifiable risks are coloured dark blue and qualitative coloured light blue. 
+| Sensitivity Test | Low | Baseline | High | 
+| ---------------- | --- | -------- | ---- | 
+| Mortality Loading Assumptions | 1.64% |  3.64%  | 5.64%  |
+| Premiums  | Č207 bn (-5.9%) |   Č220 bn  | Č226 bn (+2.72%) |
+| Death Benefits |  Č21bn (-9.7%) |  Č23 bn |  Č30 bn (+30.04%) |
+| Net Profit |  Č183 bn (-7.11%) | Č197 bn |    Č204 bn (-0.51%) |
+| Risk Category | Description | Risk Mitigation Techniques | 
+| ------------- | ----------- | -------------------------- |
+| Insurance – Pricing Risk | (Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. |  Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios. SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge. |
+| Insurance – Catastrophe Risk | (Qualitative)	The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur.	|  SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program. SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
+| Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | Create economic incentives for participation in proposed program to mitigate against economic downturns. Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
+
  
 ### 7 Final Recommendations
 In conclusion, our team at Wallaby Consulting have packaged selected health incentives within our EverCare program to achieve SuperLife’s primary goals highlighted in their project brief. These were selected on maximising cost-effectiveness by identifying the main drivers of policyholder deaths. 
