@@ -177,13 +177,13 @@ The sensitivity analysis on mortality loading suggests that mortality has a much
 Whilst the net profits are both in a similar percentage change range for low and high loading assumptions, the aggregate premiums and death benefits differ significantly. Although the difference between high and low mortality premiums is within an approximate +5%/-5% range, death benefits see a more significant change. Specifically, the lower mortality rate scenario improves death benefit pay-outs whilst the high mortality rate scenario worsens projected death benefits by 10.41%. In general, a lower death benefit value is more desirable than higher premiums as this translates to less future liabilities to fulfil for SuperLife and thus decreases liability risk.
 
  
-### 5 Final Recommendations
+### 7 Final Recommendations
 In conclusion, our team at Wallaby Consulting have packaged selected health incentives within our EverCare program to achieve SuperLife’s primary goals highlighted in their project brief. These were selected on maximising cost-effectiveness by identifying the main drivers of policyholder deaths. 
 By our actuarial methods, we can conclude with a high degree of certainty that our selected incentives decrease mortality and create value for SuperLife. The average mortality reduction comes to 22.23%, with a total net profit of Č707 bn. EverCare’s monetary incentives system encourages participation while our three-point engagement strategy will boost policy sales and product marketability. 
 We note that our assumptions lean toward conservative estimates to mitigate negative surprises as dictated by actuarial judgement principles. While we performed our analyses to ensure a 95% confidence interval of results, we recognise the potential error margin created by using historical data and reinforce our recommended ranges by conducting thorough sensitivity tests for key metrics. 
 Hence, Wallaby Consulting’s EverCare program effectively achieves the primary goals laid out of improving the overall health of policyholders and adding significant economic value to SuperLife whilst providing a comprehensive view on different scenarios and risks. 
 
-### 6 References
+### 8 References
 Bobitt, J, Aguayo, L, Payne, L, Jansen, T & Schwingel, A 2019, ‘Geographic and Social Factors Associated With Chronic Disease Self-Management Program Participation: Going   the “Extra-Mile” for Disease Prevention’, Preventing Chronic Disease, vol. 16.
 
 Brennan, R 2023, How do life insurance companies make money? | QuickQuote.com, www.quickquote.com, viewed 22 March 2024, <https://www.quickquote.com/how-do-life-insurance-  companies-make-money/>.
