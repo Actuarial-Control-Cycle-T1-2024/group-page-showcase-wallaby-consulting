@@ -58,6 +58,13 @@ The four key metrics will be reviewed once every financial year to ensure the ef
 Wallaby Consulting proposes a free health intervention product package available for SuperLife policyholders called “EverCare: Your Wellness Journey”. This product package consists of four health intervention programs geared to reduce SuperLife’s inforce policyholder’s mortality. The programs included are a Wellness Program, Smoking Cessation Program, Chronic Disease Management Program and Cancer Prevention Initiatives. The Wellness Program improves overall mortality by improving the general physical and mental health of the individual. The other three programs are chosen to directly reduce the expected mortality from the two leading causes of deaths. Historically, 32.7% and 29.4% of SuperLife inforce deaths are attributed to neoplasms and diseases of the circulatory system respectively. Combined, they contribute to more than half of SuperLife’s inforce deaths.  
 
 ### 3.1 Evercare: Your Wellness Journey 
+
+<p align = "center">
+   <img width = "400" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Wellness%20Image.jpg">
+</p>
+
+Source: https://unsplash.com/@realkayls
+
 1. Wellness Program - This is available for all policyholders and focuses on physical fitness, nutrition and stress management. The Wellness Program provides policyholders the motivation and 
    professional guidance on how to live healthier lives in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.
    Impact: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.
