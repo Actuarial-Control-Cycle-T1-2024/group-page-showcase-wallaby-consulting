@@ -69,16 +69,19 @@ Source: https://unsplash.com/@realkayls
    professional guidance on how to live healthier lives in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.
    Impact: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.
    Monetary Incentive: Č100 gift voucher will be given to 3 random participants quarterly.
+
 2. Smoking Cessation Program - This is available to all policyholders who are smoking tobacco products, e-cigarettes and vaping products. This program gives our policyholders access to a community of 
    other smokers who wish to quit and help and resources from professionals or past smokers who have successfully quit. Furthermore, each program is individually tailored to suit the policyholders need 
    based on how long they have smoked for and level of addiction.
    Impact: Participants’ mortality reduced up to 35% at the age of 18 with diminishing effects with age. It will cost, on average, Č2177.50 for a first-time participant.
    Monetary Incentive: Cashback of 0.25% face value to first time participants who stay in the program for a year.
+
 3. Chronic Disease Management - The Chronic Disease Management Program is available to our policyholders who are managing a chronic disease. This program offers workshops which are available in-person 
    and online and runs quarterly where support and resources such as diet management help and active health promotion. A grocery voucher prize draw is provided as an incentive to encourage healthier 
    eating.
    Impact: Participants’ mortality reduces by 5-10% based on age. The cost to run this program will be Č2090.00 yearly.
    Monetary Incentive: Č100 grocery voucher prize draw at each of the quarterly sessions to one individual. 
+
 4. Cancer Prevention Initiative - The Cancer Prevention Initiative is a program which runs quarterly and is available for all policyholders to help spread awareness and education around cancer 
    prevention. This involves workshops available online and in-person quarterly and also learning modules and resources available all-year-round.
    Impact: Participants’ mortality reduces by 7.5% and it will cost Č210.00 to run yearly.
@@ -95,12 +98,14 @@ Wallaby Consulting proposes an engagement strategy which aligns closely with soc
 
 1. Attitude - This factor is where an individual may question the advantages of the program in the contemplation stage of joining a program. We address this by providing clear marketing correspondence 
    outlining evidenced examples of improvements to an individual’s health. We also implement a review system so current participants can demonstrate the efficacy of the program. 
+
 2. Social Influences - Social influences can impact individuals desire to join or remain in a program. This will be addressed by increasing SuperLife’s credibility within the Lumarian community through 
    marketing. SuperLife should time marketing campaigns of EverCare with the major Lumarian holidays: Lumarian Awakening and Super Luminova, which have a big emphasis on new beginnings and wellbeing 
    respectively. SuperLife could partner with festivals and hold stalls demonstrating a 
    trial of each program. Furthermore, large events will likely attract large crowds increasing the impact of the marketing campaign that SuperLife could run. To target younger age demographics who may 
    not be insured, SuperLife should also run a social media campaign and partner with social media influencers. This will increase the exposure of Lumaria’s social community to SuperLife. To continue 
    engagement within individuals actively participating in the program, the four intervention programs are designed to have a good motivational system with a community-based structure.  
+
 3. Self-Efficacy - Self-efficacy refers to an individual’s belief about their abilities to participate in a program. This will be especially prevalent within motivation to join the smoking cessation 
    program. To address this, the programs will have strong social support systems in place while emphasising the flexibility and varying levels of difficulty/commitment on offer.
 
