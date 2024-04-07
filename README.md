@@ -122,7 +122,7 @@ SuperLife currently offers two long-term insurance products, a single-premium wh
 Our first concern when utilising the provided data is whether the provided mortality data (MORTDATA) is a suitable fit for the provided inforce data (INFORCE). We analysed the empirical death probabilities from INFORCE across the provided age range and found that for ages less than 58, the experienced mortality (INFORCE) is higher than predicted and vice versa for ages greater than 58 (Figure 2). To account for this, we needed to stratify the MORTDATA according to the Underwriting Class by calculating an average loading factor of the INFORCE mortality compared to the MORTDATA mortality.
 
 <p align = "center">
-<img width="600" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Inforce%20vs%20MORTDATA%20Mortality%20Rates.png">
+<img width="600" alt="Figure 1" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Inforce%20vs%20MORTDATA%20Mortality%20Rates.png">
 </p>
 
 Next, we further stratified the mortality tables according to the projected mortality reductions due to the interventions. There are 4 base interventions and hence 15 combinations of the interventions, for which mortality tables were calculated. With a high degree of certainty, an average reduction of 22.23% is expected after implementing interventions.
@@ -247,7 +247,7 @@ Whilst the net profits are both in a similar percentage change range for low and
 ---
 
 ## 5. Risk & Risk Mitigation Strategies
-Wallaby Consulting has referred to several Risk Categorisation and Definition (RCD) Tools (Owen, 2024; Segal, 2015) in assessing EverCare’s quantifiable and qualitative risks. The key  risks (those with a high priority rating) are summarised and analysed below. See Appendix 9.9 for a comprehensive list of the risks surveyed. Further, the high and medium priority risks are represented in Figure 14, with their relative likelihood of occurrence and severity rankings. The size of the bubbles represents the high vs. medium priority risks. Those quantifiable risks are coloured dark blue and qualitative coloured light blue. 
+Wallaby Consulting has referred to several Risk Categorisation and Definition (RCD) Tools (Owen, 2024; Segal, 2015) in assessing EverCare’s quantifiable and qualitative risks. The key risks (those with a high priority rating) are summarised and analysed below. Further, the high and medium priority risks are represented in Figure 14, with their relative likelihood of occurrence and severity rankings. The size of the bubbles represents the high vs. medium priority risks. Those quantifiable risks are coloured dark blue and qualitative coloured light blue. 
 
 | Risk Category | Description | Risk Mitigation Techniques | 
 | ------------- | ----------- | -------------------------- |
@@ -256,7 +256,7 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 | Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | Create economic incentives for participation in proposed program to mitigate against economic downturns. Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
 
 <p align = "center">
-<img width="600" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/risk matrix.JPG">
+<img width="600" alt="Figure 14" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/risk matrix.JPG">
 </p>
 
 The following ethical considerations were also taken into account. Whilst the assumption that no community rating laws exist in Lumaria, the ethical implications of each rating factor has been considered for potential discrimination in our pricing, and certain pricing factors which were deemed unnecessary (e.g. gender) were removed. This balances the ethical aim to offer life insurance to everyone (deontology and rights-based ethics) with the need to design a fair and just pricing system, based on real risks that policyholders carry (utilitarianism) (PennState, 2023). To promote social responsibility and equity, the health interventions proposed are designed with the diverse needs and circumstances of policyholders with evidence-based strategies to ensure the well-being of our policyholders. 
