@@ -274,7 +274,7 @@ Hence, Wallaby Consulting’s EverCare program effectively achieves the primary 
 ## 8. References
 Bobitt, J, Aguayo, L, Payne, L, Jansen, T & Schwingel, A 2019, ‘Geographic and Social Factors Associated With Chronic Disease Self-Management Program Participation: Going   the “Extra-Mile” for Disease Prevention’, Preventing Chronic Disease, vol. 16.
 
-Brennan, R 2023, How do life insurance companies make money? | QuickQuote.com, www.quickquote.com, viewed 22 March 2024, <https://www.quickquote.com/how-do-life-insurance-  companies-make-money/>.
+Brennan, R 2023, How do life insurance companies make money?, QuickQuote.com, www.quickquote.com, viewed 22 March 2024, <https://www.quickquote.com/how-do-life-insurance-companies-make-money/>.
 
 Bryant, J, Bonevski, B & Paul, C 2011, ‘A survey of smoking prevalence and interest in quitting among social and community service organisation clients in Australia: a      unique opportunity for reaching the disadvantaged’, BMC Public Health, vol. 11, no. 1.
 
