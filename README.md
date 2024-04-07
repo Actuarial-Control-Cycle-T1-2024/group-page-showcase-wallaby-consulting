@@ -12,7 +12,7 @@ Authors: Amelia Quinlan, Catherine Xie, Nicholas Wong, Nala Hong & Vivian Chan
 
 ## Table of Contents
 
-1. [Executive Summary](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/README.md#1-executive-summary)
+1. [Executive Summary](#1-executive-summary)
 2. [Objectives](#2-objectives)
 3. [Program Design](#3-program-design)
   - 3.1. [Evercare: Your Wellness Journey](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/tree/main?tab=readme-ov-file#31-evercare-your-wellness-journey)
