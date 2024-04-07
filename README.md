@@ -91,7 +91,7 @@ EverCare is designed to be user-friendly and prioritizes convenience and flexibi
 </p>
 
 ### 3.2 Engagement Strategy 
-Wallaby Consulting proposes an engagement strategy which aligns closely with social and psychological models behind the motivation of participating in health and fitness programs to encourage product marketability and competitiveness. These models suggest that attitude, social influences and self-efficacy expectations are key in determining an individual’s motivation in participating in fitness and health programs (Lechner, L. & Devries, H., 1995).  
+Wallaby Consulting proposes an engagement strategy which aligns closely with social and psychological models behind the motivation of participating in health and fitness programs to encourage product marketability and competitiveness. These models suggest that attitude, social influences and self-efficacy expectations are key in determining an individual’s motivation in participating in fitness and health programs [(Lechner, L. & Devries, H., 1995)](#8-references).  
 
 1. Attitude - This factor is where an individual may question the advantages of the program in the contemplation stage of joining a program. We address this by providing clear marketing correspondence 
    outlining evidenced examples of improvements to an individual’s health. We also implement a review system so current participants can demonstrate the efficacy of the program. 
