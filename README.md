@@ -1,6 +1,6 @@
 # Wallaby Consulting: 2024 Student Research Case Study Challenge
 
-![bg image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Cover%20Page%20Image.jpg)
+![bg image](Cover Page Image.jpg)
 
 ## SuperLife Saving Lives
 
@@ -60,7 +60,7 @@ Wallaby Consulting proposes a free health intervention product package available
 ### 3.1 Evercare: Your Wellness Journey 
 
 <p align = "center">
-   <img width = "400" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Wellness%20Image.jpg">
+   <img width = "400" alt="image" src="Wellness Image.jpg">
 </p>
 
 Source: https://unsplash.com/@realkayls
@@ -87,7 +87,7 @@ Source: https://unsplash.com/@realkayls
 EverCare is designed to be user-friendly and prioritizes convenience and flexibility. All programs are available in-person and online catering to users diverse schedules and preferences. Centralizing all the programs in one package, EverCare simplifies our policyholders’ journeys to a healthier lifestyle. Furthermore, the intervention programs included within the EverCare package will be provided by professionals and experts.  The expected reduction in mortality, with a high degree of certainty, is depicted for policyholders aged 18-65 below. 
 
 <p align = "center">
-   <img width = "600" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Mortality Rates.png">
+   <img width = "600" alt="image" src="Mortality Rates.png">
 </p>
 
 ### 3.2 Engagement Strategy 
@@ -122,7 +122,7 @@ SuperLife currently offers two long-term insurance products, a single-premium wh
 Our first concern when utilising the provided data is whether the provided mortality data (MORTDATA) is a suitable fit for the provided inforce data (INFORCE). We analysed the empirical death probabilities from INFORCE across the provided age range and found that for ages less than 58, the experienced mortality (INFORCE) is higher than predicted and vice versa for ages greater than 58 (Figure 2). To account for this, we needed to stratify the MORTDATA according to the Underwriting Class by calculating an average loading factor of the INFORCE mortality compared to the MORTDATA mortality.
 
 <p align = "center">
-<img width="600" alt="Figure 1" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Inforce%20vs%20MORTDATA%20Mortality%20Rates.png">
+<img width="600" alt="Figure 1" src="Inforce vs MORTDATA Mortality Rates.png">
 </p>
 
 Next, we further stratified the mortality tables according to the projected mortality reductions due to the interventions. There are 4 base interventions and hence 15 combinations of the interventions, for which mortality tables were calculated. With a high degree of certainty, an average reduction of 22.23% is expected after implementing interventions.
@@ -177,7 +177,7 @@ For this analysis, each individual year had any lapsed or deceased participants 
 The proportion of each type of policy also changes throughout time as evident in Figure 6. The proportion of whole life policies grew from 0.1969 in 2001 to 0.3767 in 2020. While examining this, we noted that it was a linear increase for the first 20 years. However, from 2021 onward, 20-year term life policies begin to expire. As such, the proportion of whole life policies began to increase more steeply. However, we expect this to slow down when the number of whole life policies being added reaches an equilibrium with the number of term life policies being added and lapsing. Since a linear trend would cause the proportion of whole life policies to overtake 100%, we assumed a logarithmic curve and projected the proportion of whole life policies to increase at an eventually decaying rate.
 
 <p align = "center">
-<img width="1000" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/Figure%206%20and%207.png">
+<img width="1000" alt="image" src="Figure 6 and 7.png">
 </p>
 
 Based on the issue ages in INFORCE, whole life policies are offered to those from 35 to 65 years of age, and Term Life policies to those from 25 to 55 years of age. Historically, active participants were found to have been uniformly distributed across each issue age for both policy types. We are only interested in a policyholder’s issue age, as issue age determines their premium throughout their policy duration. Thus, to distribute the participant volumes across each age for each policy type, we assumed uniform distributions for issue age, such that if Xpolicy type represents the issue age for an individual policyholder, X<sub>WL</sub> and X<sub>T</sub> are uniformly distributed on (35, 65) and (25, 55) respectively. This is shown in Figure 7 above.
@@ -256,7 +256,7 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 | Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | Create economic incentives for participation in proposed program to mitigate against economic downturns. Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
 
 <p align = "center">
-<img width="600" alt="Figure 14" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-wallaby-consulting/blob/main/risk matrix.JPG">
+<img width="600" alt="Figure 14" src="risk matrix.JPG">
 </p>
 
 The following ethical considerations were also taken into account. Whilst the assumption that no community rating laws exist in Lumaria, the ethical implications of each rating factor has been considered for potential discrimination in our pricing, and certain pricing factors which were deemed unnecessary (e.g. gender) were removed. This balances the ethical aim to offer life insurance to everyone (deontology and rights-based ethics) with the need to design a fair and just pricing system, based on real risks that policyholders carry (utilitarianism) [(PennState, 2023)](#8-references). To promote social responsibility and equity, the health interventions proposed are designed with the diverse needs and circumstances of policyholders with evidence-based strategies to ensure the well-being of our policyholders. 
