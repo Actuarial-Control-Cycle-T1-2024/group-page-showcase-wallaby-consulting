@@ -128,13 +128,10 @@ Our first concern when utilising the provided data is whether the provided morta
 Next, we further stratified the mortality tables according to the projected mortality reductions due to the interventions. There are 4 base interventions and hence 15 combinations of the interventions, for which mortality tables were calculated. With a high degree of certainty, an average reduction of 22.23% is expected after implementing interventions.
 The results of this analysis show clear mortality improvements, which can be seen by the life expectancy at birth, using the Low-Risk Underwriting Class, with and without interventions. Similar patterns hold for the other underwriting classes.
 
-<div align="center">
-
 | Base    | Smoking Cessation | Wellness Programs | Chronic Disease Management | Cancer Prevention Initiatives | 
 |---------|-------------------|-------------------|----------------------------|-------------------------------| 
 | 78.7753 |      81.2288      |      79.8376      |          80.0209           |             80.2480           |
 
-</div>
 
 ### 4.2 Premium Pricing Methodology
 The resulting mortality tables were utilised in the calculation of actuarial premiums. The raw base premiums were initially calculated, before loading on expenses to determine a final premium which considered age, underwriting risk class and intervention program participation. In terms of the methodology, the pricing impact of several aspects were first considered. This included economic factors (interest rate, inflation rate), decrement information (mortality rate, lapse rate) and cash flow amounts (premium, commission, expenses, death benefit, capital). The following assumptions surrounding these factors were made:
@@ -160,13 +157,10 @@ The expense loaded premiums were then used to calculate the aggregate premium an
 
 In terms of cost analysis, only the Smoking Cessation Program within our EverCare package is dependent on the number of participants. However, all four have their individual impacts on mortality savings. The following participation rates are based off three participation studies of healthcare programs [(Harris, 2010; Bryant, Bonevski & Paul, 2011; Bobitt, Aguayo, Payne, Jansen & Schwingel, 2019)](#8-references). Expected participation is as follows:
 
-<div align="center">
 
 | Smoking Cessation Program | Wellness Programs | Chronic Disease Management | Cancer Prevention Initiatives | 
 | ----------------- | ----------------- | -------------------------- | ----------------------------- | 
 | 55% of Smokers   |   17.5% of Inforce  |  60% of High-Risk Class   |  17.5% of Inforce|
-
-</div>
 
 In SuperLife’s dataset, it was found that approximately 70% of smokers belonged to the moderate risk class and 30% of smokers were designated high risk class. We followed this proportion for the smoking cessation program participation rates for each underwriting class. We also assumed that individuals managing chronic disease would be of high risk underwriting class.
 
@@ -192,8 +186,6 @@ It must be noted that the profit margin assumption of 10% that has been used in 
 
 ### 4.4 Sensitivity Analysis and Program Impact
 The key assumptions for which we performed sensitivity analysis were the discount rate and the mortality loadings. For both, a sensitivity range was defined based on historical experience, and from there, a recommended range was defined (to achieve the desired profit results). The 20-year aggregated premiums and death benefits for each scenario are summarised below (both a projected series and a historical series of values). A target profit margin of 10% was used for both.
-
-<div align="center">
    
 | Sensitivity Test | Low | Baseline | High | 
 | ---------------- | --- | -------- | ---- | 
@@ -202,10 +194,6 @@ The key assumptions for which we performed sensitivity analysis were the discoun
 | Death Benefits |  Č4,704 bn (+25.71%) | Č3,742 bn | Č3,025 bn (-19.17%) |
 | Net Profit |  Č5,290 bn (+648.37%) | Č707 bn |   Č-823 bn (-216.41%) |
 
-</div>
-
-<div align="center">
-
 | Sensitivity Test | Low | Baseline | High | 
 | ---------------- | --- | -------- | ---- | 
 | Real Interest Rate Assumptions | 1.64% |  3.64%  | 5.64%  |
@@ -213,13 +201,11 @@ The key assumptions for which we performed sensitivity analysis were the discoun
 | Death Benefits |   Č15 bn (-35.78%) | Č23 bn |  Č30 bn (+30.43%) |
 | Net Profit |   Č271 bn (+37.56%) | Č197 bn |   Č160 bn (-18.78%) |
 
-</div>
 
 From the sensitivity analysis of real interest rate assumptions, changes in real interest rate have a significant impact on overall cashflows. In Figure 9 and 10, a lower real interest rate represents an optimistic scenario for SuperLife’s current profitability whilst a higher real interest rate represents a negative scenario. With a lower real interest rate, the future cashflows are discounted at a slower rate and thus the current NPV of cashflows is higher and vice versa.
 
 As seen in our projected sensitivity testing, a real interest rate of 5.64% results in a negative NPV for cashflow. As such, if the real interest rates approach an average of 5% and over, SuperLife should consider pricing changes, such as lowering the 10% required profit margin, to ensure profitability in both the short and long term. Whilst a lower real interest rate of 1.64% is beneficial when considering SuperLife’s profitability, long term low interest rates could result in increased pressure for SuperLife to repay policyholders’ death benefits as investment returns decrease. Sustained higher premiums may also result in decreased competitiveness. Overall, SuperLife must maintain a careful balance between program profitability and liability management as real interest rates approach either extreme.
 
-<div align="center">
    
 | Sensitivity Test | Low | Baseline | High | 
 | ---------------- | --- | -------- | ---- | 
@@ -227,9 +213,6 @@ As seen in our projected sensitivity testing, a real interest rate of 5.64% resu
 | Premiums  | Č4,213 bn (-5.31%)  | Č4,449 bn  | Č4,660 bn (+4.75%) |
 | Death Benefits |  Č3,684 bn (-1.54%) | Č3,742 bn |  Č4,131 bn (+10.41%)|
 | Net Profit |  Č529 bn (-25.18%) | Č707 bn |  Č529 bn (-25.18%) |
-
-</div>
-<div align="center">
    
 | Sensitivity Test | Low | Baseline | High | 
 | ---------------- | --- | -------- | ---- | 
@@ -237,8 +220,6 @@ As seen in our projected sensitivity testing, a real interest rate of 5.64% resu
 | Premiums  | Č207 bn (-5.9%) |   Č220 bn  | Č226 bn (+2.72%) |
 | Death Benefits |  Č21bn (-9.7%) |  Č23 bn |  Č30 bn (+30.04%) |
 | Net Profit |  Č183 bn (-7.11%) | Č197 bn |    Č204 bn (-0.51%) |
-
-</div>
 
 The sensitivity analysis on mortality loading suggests that mortality has a much smaller impact than real interest rates. Overall, a lower mortality rate represents an optimistic scenario whilst higher mortality rates negatively impact SuperLife.
 
