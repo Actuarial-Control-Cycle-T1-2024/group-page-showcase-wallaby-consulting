@@ -131,7 +131,7 @@ The results of this analysis show clear mortality improvements, which can be see
 <div align="center">
 
 | Base    | Smoking Cessation | Wellness Programs | Chronic Disease Management | Cancer Prevention Initiatives | 
-| ------- | ----------------- | ----------------- | -------------------------- | ----------------------------- | 
+|---------|-------------------|-------------------|----------------------------|-------------------------------| 
 | 78.7753 |      81.2288      |      79.8376      |          80.0209           |             80.2480           |
 
 </div>
