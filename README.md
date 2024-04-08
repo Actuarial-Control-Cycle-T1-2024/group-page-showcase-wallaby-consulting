@@ -65,10 +65,9 @@ Wallaby Consulting proposes a free health intervention product package available
 
 Source: https://unsplash.com/@realkayls
 
-1. Wellness Program - This is available for all policyholders and focuses on physical fitness, nutrition and stress management. The Wellness Program provides policyholders the motivation and 
-   professional guidance on how to live healthier lives in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.
-   Impact: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.
-   Monetary Incentive: Č100 gift voucher will be given to 3 random participants quarterly.
+1. Wellness Program - This is available for all policyholders and focuses on physical fitness, nutrition and stress management. The Wellness Program provides policyholders the motivation and professional guidance on how to live healthier lives in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.  
+Impact: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.  
+Monetary Incentive: Č100 gift voucher will be given to 3 random participants quarterly.
 
 2. Smoking Cessation Program - This is available to all policyholders who are smoking tobacco products, e-cigarettes and vaping products. This program gives our policyholders access to a community of 
    other smokers who wish to quit and help and resources from professionals or past smokers who have successfully quit. Furthermore, each program is individually tailored to suit the policyholders need 
