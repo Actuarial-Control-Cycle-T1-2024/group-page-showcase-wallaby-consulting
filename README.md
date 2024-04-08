@@ -238,14 +238,19 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
+      <th> Risk Category </th>
+      <th align="center">Description</th>
+      <th align="right">Risk Mitigation Techniques</th>
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
+      <td>Insurance – Pricing Risk</td>
+      <td align="center">(Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect.</td>
+      <td>
+        <ul>
+          <li>Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios.</li>
+          <li>SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge. </li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>col 2 is</td>
@@ -269,7 +274,6 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
     </tr>
   </tbody>
 </table>
-
 
 <p align = "center">
 <img width="600" alt="Figure 14" src="risk matrix.JPG">
