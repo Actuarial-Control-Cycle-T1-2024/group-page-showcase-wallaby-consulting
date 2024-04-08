@@ -241,35 +241,12 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 | Insurance – Catastrophe Risk | (Qualitative)	The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur.	| * SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program. *  SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
 | Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | * Create economic incentives for participation in proposed program to mitigate against economic downturns. * Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. * SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
 
-```{r global_options, include=FALSE, echo=FALSE}
-require(knitr)
-opts_chunk$set(fig.width=8, fig.height=4, fig.path='figs/', dpi=500,
-               echo=FALSE, warning=FALSE, message=FALSE, results='hide')
-```
+mytable = data.frame(
+    Concept     = c("Decoded", "XXX"),
+    Description = c("* Founded in 2011\ \n* Offers workshops to take people from zero skills and knowledge in programming through to coding a multi-platform app using HTML, CSS and Javascript in a single day", "XXX"),
+    Website     = c("http://decoded.com/uk/","XXX"))
 
-```{r pandoc_options, include=FALSE, echo=FALSE}
-require(pander)
-panderOptions('digits', 3)
-panderOptions('round', 3)
-panderOptions('keep.trailing.zeros', TRUE)
-panderOptions('keep.line.breaks', TRUE)
-```
-
-```{r concepts, echo=FALSE}
-mytable = data.frame(Concept = c("Decoded", "XXX"), 
-                     Description = c(" 
-                                     \\\n
-                                     \\\n * Founded in 2011 
-                                     \\\n * * Offers workshops to take people from zero skills and knowledge in programming through to coding a multi-platform app using HTML, CSS and Javascript in a single day 
-                                     \\\n * * Rave reviews", "XXX"), 
-                     Website = c("http://decoded.com/uk/","XXX"))
-
-```
-
-``` {r concepts_descriptions, results = 'asis'}
-pandoc.table(mytable, style = "multiline", justify = "left", caption = "Concepts and Descriptions")
-```
-
+pander::pander(mytable, keep.line.breaks = TRUE, style = 'grid', justify = 'left')
 
 <p align = "center">
 <img width="600" alt="Figure 14" src="risk matrix.JPG">
