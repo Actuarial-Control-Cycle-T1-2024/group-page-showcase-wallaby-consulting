@@ -238,7 +238,7 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
     </tr>
     <tr>
       <td>Insurance – Pricing Risk</td>
-      <td align="center">(Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect.</td>
+      <td align="left">(Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect.</td>
       <td>
         <ul>
           <li>Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios.</li>
@@ -281,10 +281,9 @@ The key data limitations and subsequent assumptions made for the modelling and p
 
 | - |	Data Limitation | Assumptions and Justification |
 | - | --------------- | ----------------------------- |
-| Economic – Discount Rate	| The 20-year historical forward rates have been provided, but no information around expected economic trends or events were provided. Wallaby Consulting needs to decide on suitable interest, inflation and discount rate projections. | <ul><li>When determining the pricing and profitability of policies, a real interest rate was used. This means that results will be reasonably conservative (as opposed to if a nominal discount rate was used).</li><li>It is assumed the historical economic trends are indicative of future trends, so averages of historical interest and inflation rates have been used to create projections.</li></ul> |
-| Policies – Issue Ages | SuperLife has not defined any restrictions regarding who can be offered policies. Wallaby Consulting has consulted past policy data from the “inforce” dataset to make an assumption. | <ul><li>Analysis conducted on the previous whole life and 20-year term policies indicate that policies were only issued to set age ranges. </li><li>The issue age ranges historically were 35-65 for the whole life policies, and 25-55 for the 20-year term policies. These ranges have been used within our analysis.</li></ul> |
-| Program Design – Incentive Costs | Wallaby Consulting has been provided estimates of the costs of each of the incentives by SuperLife, in the “interventions” dataset prepared by the SuperLife product development team. Within this dataset, a range of prices were presented, creating ambiguity around which price was best suited to use in projecting program costs. | <ul><li>We assume that the costs for each participant will be uniformly distributed so that the average cost of the ranges provided will be reflective of the average cost per participant.</li></ul>
-
+| Economic – Discount Rate	| The 20-year historical forward rates have been provided, but no information around expected economic trends or events were provided. Wallaby Consulting needs to decide on suitable interest, inflation and discount rate projections. | When determining the pricing and profitability of policies, a real interest rate was used. This means that results will be reasonably conservative (as opposed to if a nominal discount rate was used). It is assumed the historical economic trends are indicative of future trends, so averages of historical interest and inflation rates have been used to create projections.|
+| Policies – Issue Ages | SuperLife has not defined any restrictions regarding who can be offered policies. Wallaby Consulting has consulted past policy data from the “inforce” dataset to make an assumption. | Analysis conducted on the previous whole life and 20-year term policies indicate that policies were only issued to set age ranges. The issue age ranges historically were 35-65 for the whole life policies, and 25-55 for the 20-year term policies. These ranges have been used within our analysis. |
+| Program Design – Incentive Costs | Wallaby Consulting has been provided estimates of the costs of each of the incentives by SuperLife, in the “interventions” dataset prepared by the SuperLife product development team. Within this dataset, a range of prices were presented, creating ambiguity around which price was best suited to use in projecting program costs. | We assume that the costs for each participant will be uniformly distributed so that the average cost of the ranges provided will be reflective of the average cost per participant.|
 
 ---
 
