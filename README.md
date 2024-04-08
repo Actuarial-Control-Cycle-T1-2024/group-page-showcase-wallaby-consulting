@@ -66,20 +66,20 @@ Wallaby Consulting proposes a free health intervention product package available
 Source: https://unsplash.com/@realkayls
 
 1. Wellness Program - This is available for all policyholders and focuses on physical fitness, nutrition and stress management. The Wellness Program provides policyholders the motivation and professional guidance on how to live healthier lives in the form of workshops and health classes. There are different levels of difficulty and engagement style to best fit all age demographics.  
-**__Impact:__**: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.  
-**__Monetary Incentive__**: Č100 gift voucher will be given to 3 random participants quarterly.
+**Impact:**: Participants’ mortality reduces by 3% with a cost of Č217.50 to run it yearly.  
+**Monetary Incentive**: Č100 gift voucher will be given to 3 random participants quarterly.
 
 2. Smoking Cessation Program - This is available to all policyholders who are smoking tobacco products, e-cigarettes and vaping products. This program gives our policyholders access to a community of other smokers who wish to quit and help and resources from professionals or past smokers who have successfully quit. Furthermore, each program is individually tailored to suit the policyholders need based on how long they have smoked for and level of addiction.  
-**__Impact__**: Participants’ mortality reduced up to 35% at the age of 18 with diminishing effects with age. It will cost, on average, Č2177.50 for a first-time participant.  
-**__Monetary Incentive__**: Cashback of 0.25% face value to first time participants who stay in the program for a year.
+**Impact**: Participants’ mortality reduced up to 35% at the age of 18 with diminishing effects with age. It will cost, on average, Č2177.50 for a first-time participant.  
+**Monetary Incentive**: Cashback of 0.25% face value to first time participants who stay in the program for a year.
 
 3. Chronic Disease Management - The Chronic Disease Management Program is available to our policyholders who are managing a chronic disease. This program offers workshops which are available in-person and online and runs quarterly where support and resources such as diet management help and active health promotion. A grocery voucher prize draw is provided as an incentive to encourage healthier eating.  
-**__Impact__**: Participants’ mortality reduces by 5-10% based on age. The cost to run this program will be Č2090.00 yearly.  
-**__Monetary Incentive__**: Č100 grocery voucher prize draw at each of the quarterly sessions to one individual. 
+**Impact**: Participants’ mortality reduces by 5-10% based on age. The cost to run this program will be Č2090.00 yearly.  
+**Monetary Incentive**: Č100 grocery voucher prize draw at each of the quarterly sessions to one individual. 
 
 4. Cancer Prevention Initiative - The Cancer Prevention Initiative is a program which runs quarterly and is available for all policyholders to help spread awareness and education around cancer prevention. This involves workshops available online and in-person quarterly and also learning modules and resources available all-year-round.  
-**__Impact__**: Participants’ mortality reduces by 7.5% and it will cost Č210.00 to run yearly.  
-**__Monetary Incentive__**: Č100 prize draw quarterly for one policyholder who has taken part in the initiative.
+**Impact**: Participants’ mortality reduces by 7.5% and it will cost Č210.00 to run yearly.  
+**Monetary Incentive**: Č100 prize draw quarterly for one policyholder who has taken part in the initiative.
 
 EverCare is designed to be user-friendly and prioritizes convenience and flexibility. All programs are available in-person and online catering to users diverse schedules and preferences. Centralizing all the programs in one package, EverCare simplifies our policyholders’ journeys to a healthier lifestyle. Furthermore, the intervention programs included within the EverCare package will be provided by professionals and experts.  The expected reduction in mortality, with a high degree of certainty, is depicted for policyholders aged 18-65 below. 
 
@@ -234,6 +234,20 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 | Insurance – Pricing Risk | (Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. |  <ul><li>Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios.</li><li>SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge.</li></ul> |
 | Insurance – Catastrophe Risk | (Qualitative)	The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur.	| <ul><li>SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program.</li><li>SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events.</li></ul> |
 | Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | <ul><li>Create economic incentives for participation in proposed program to mitigate against economic downturns.</li><li>Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. </li><li>SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge.</li></ul>  |
+
+| Risk Category | Description | Risk Mitigation Techniques | 
+| ------------- | ----------- | -------------------------- |
+| Insurance – Pricing Risk | (Quantitative) The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. | 
+  - Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios.
+  - SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge. |
+| Insurance – Catastrophe Risk | (Qualitative) The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur. | 
+  - SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program.
+  - SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
+| Financial – Economic Risk | (Quantitative) The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | 
+  - Create economic incentives for participation in proposed program to mitigate against economic downturns.
+  - Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing.
+  - SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
+
 
 <p align = "center">
 <img width="600" alt="Figure 14" src="risk matrix.JPG">
