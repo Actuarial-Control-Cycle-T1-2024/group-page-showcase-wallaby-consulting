@@ -237,16 +237,10 @@ Wallaby Consulting has referred to several Risk Categorisation and Definition (R
 
 | Risk Category | Description | Risk Mitigation Techniques | 
 | ------------- | ----------- | -------------------------- |
-| Insurance – Pricing Risk | (Quantitative) The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. | 
-| | | - Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios.
-- SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge. |
-| Insurance – Catastrophe Risk | (Qualitative) The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur. | 
-| | | - SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program.
-- SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
-| Financial – Economic Risk | (Quantitative) The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | 
-| | | - Create economic incentives for participation in proposed program to mitigate against economic downturns.
-- Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing.
-- SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
+| Insurance – Pricing Risk | (Quantitative)	The risk that the assumptions and data Wallaby Consulting based our models on, when pricing these products, were incorrect. |  * Sensitivity testing has been undertaken, considering a wide range of historical (if historical data existed) and predicted scenarios. * SuperLife to follow the recommended monitoring process, where key assumptions (e.g. participation rates in program) are monitored and adjusted for as changes emerge.  |
+| Insurance – Catastrophe Risk | (Qualitative)	The risk that a catastrophic event, such as a pandemic or large-scale natural disaster, impacting health and mortality, will occur.	| * SuperLife to receive legal advice on the recommended exclusions in the policy terms and conditions, for the EverCare program. *  SuperLife to investigate the possibility of sourcing reinsurance for catastrophic events. |
+| Financial – Economic Risk | (Quantitative)	The risk that unexpected changes in the economy occur. Many economic factors affect the proposed program, including consumer expendable income, inflation and interest rates. | * Create economic incentives for participation in proposed program to mitigate against economic downturns. * Prepare for a wide range of historical and predicted scenarios as explored in our sensitivity testing. * SuperLife to execute a monitoring process into the future, where economic assumptions are monitored and adjusted for, as changes emerge. |
+
 
 <p align = "center">
 <img width="600" alt="Figure 14" src="risk matrix.JPG">
